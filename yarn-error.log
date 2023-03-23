@@ -1,29 +1,29 @@
 Arguments: 
-  /home/zubair-aik/.nvm/versions/node/v19.3.0/bin/node /home/zubair-aik/.nvm/versions/node/v19.3.0/bin/yarn
+  /home/zubair-aik/.nvm/versions/node/v12.22.12/bin/node /home/zubair-aik/.nvm/versions/node/v12.22.12/bin/yarn
 
 PATH: 
-  /home/zubair-aik/.nvm/versions/node/v19.3.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+  /home/zubair-aik/.nvm/versions/node/v12.22.12/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 
 Yarn version: 
   1.22.19
 
 Node version: 
-  19.3.0
+  12.22.12
 
 Platform: 
   linux x64
 
 Trace: 
   SyntaxError: Invalid value type 1578:0 in /home/zubair-aik/Desktop/uix-cloudinary-input/yarn.lock
-      at Parser.unexpected (/home/zubair-aik/.nvm/versions/node/v19.3.0/lib/node_modules/yarn/lib/cli.js:63491:11)
-      at Parser.parse (/home/zubair-aik/.nvm/versions/node/v19.3.0/lib/node_modules/yarn/lib/cli.js:63619:16)
-      at Parser.parse (/home/zubair-aik/.nvm/versions/node/v19.3.0/lib/node_modules/yarn/lib/cli.js:63596:26)
-      at parse (/home/zubair-aik/.nvm/versions/node/v19.3.0/lib/node_modules/yarn/lib/cli.js:63696:21)
-      at module.exports.exports.default (/home/zubair-aik/.nvm/versions/node/v19.3.0/lib/node_modules/yarn/lib/cli.js:63258:96)
-      at Function.<anonymous> (/home/zubair-aik/.nvm/versions/node/v19.3.0/lib/node_modules/yarn/lib/cli.js:3068:63)
+      at Parser.unexpected (/home/zubair-aik/.nvm/versions/node/v12.22.12/lib/node_modules/yarn/lib/cli.js:63491:11)
+      at Parser.parse (/home/zubair-aik/.nvm/versions/node/v12.22.12/lib/node_modules/yarn/lib/cli.js:63619:16)
+      at Parser.parse (/home/zubair-aik/.nvm/versions/node/v12.22.12/lib/node_modules/yarn/lib/cli.js:63596:26)
+      at parse (/home/zubair-aik/.nvm/versions/node/v12.22.12/lib/node_modules/yarn/lib/cli.js:63696:21)
+      at module.exports.exports.default (/home/zubair-aik/.nvm/versions/node/v12.22.12/lib/node_modules/yarn/lib/cli.js:63258:96)
+      at Function.<anonymous> (/home/zubair-aik/.nvm/versions/node/v12.22.12/lib/node_modules/yarn/lib/cli.js:3068:63)
       at Generator.next (<anonymous>)
-      at step (/home/zubair-aik/.nvm/versions/node/v19.3.0/lib/node_modules/yarn/lib/cli.js:310:30)
-      at /home/zubair-aik/.nvm/versions/node/v19.3.0/lib/node_modules/yarn/lib/cli.js:321:13
+      at step (/home/zubair-aik/.nvm/versions/node/v12.22.12/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /home/zubair-aik/.nvm/versions/node/v12.22.12/lib/node_modules/yarn/lib/cli.js:321:13
 
 npm manifest: 
   {
